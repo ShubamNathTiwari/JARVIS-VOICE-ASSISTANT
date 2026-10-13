@@ -6,6 +6,12 @@ It uses an LLM brain, RAG over personal notes, and an agent that can run tools.
 
 ![Jarvis demo](screenshots/demo.gif)
 
+## 📸 Screenshots
+
+| Main window | Mini mode |
+|---|---|
+| ![Main window](screenshots/ui-main.png) | ![Mini mode](screenshots/ui-mini.png) |
+
 ## ✨ Features
 
 - 🎙️ **Wake word** ("Jarvis") and hands-free voice conversation
@@ -110,13 +116,14 @@ Use `python jarvis_ui.py demo` to preview the UI without using any API quota.
 
 ## 👤 Author
 
-**[Your Name]**, [LinkedIn link] · [GitHub link]
+**[Shubam Nath Tiwari]**, [https://www.linkedin.com/in/shubam-nath-tiwari-335502313/] · [https://github.com/ShubamNathTiwari/JARVIS-personal-voice-assistant/blob/main/readme.md]
 
 ## 📄 License
 
 MIT License
 
 '-----------------------------------------------------------------------------'
+
 Your project folder should look like this:
 C:\JARVIS
 ├── .gitignore
@@ -132,4 +139,3 @@ C:\JARVIS
 ├── list_models.py       (optional)
 └── knowledge\
     └── my_notes.example.txt
-    
