@@ -4,13 +4,13 @@ A voice-controlled AI assistant for Windows, inspired by Alexa and Iron Man's JA
 Say "Jarvis", ask a question or give a command, and it answers out loud.
 It uses an LLM brain, RAG over personal notes, and an agent that can run tools.
 
-![Jarvis demo](screenshots/demo.gif)
+![Jarvis demo](jarvis_screenshots/demo.gif)
 
 ## 📸 Screenshots
 
 | Main window | Mini mode |
 |---|---|
-| ![Main window](screenshots/ui-main.png) | ![Mini mode](screenshots/ui-mini.png) |
+| ![Main window](jarvis_screenshots/ui-main.png) | ![Mini mode](jarvis_screenshots/ui-mini.png) |
 
 ## ✨ Features
 
