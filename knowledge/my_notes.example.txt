@@ -1,0 +1,6 @@
+My favourite subject is machine learning.
+My final exam starts on 20 November.
+My project mentor is Mr. Sharma.
+I wake up at 6 AM and study from 7 to 9 AM.
+My laptop is an HP and I code in Python and VS Code.
+My goal is to get a job as an AI engineer.

@@ -1,0 +1,9 @@
+google-genai
+SpeechRecognition
+pyaudio
+pyttsx3
+comtypes
+numpy
+edge-tts
+pygame
+ollama

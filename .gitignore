@@ -1,0 +1,25 @@
+# Virtual environments
+jarvis_env/
+jarvis_env_old/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
+
+# Personal data and generated files
+knowledge/*
+!knowledge/my_notes.example.txt
+knowledge_index*.json
+ui_settings.json
+jarvis_speech.mp3
+
+# Editor and system files
+.vscode/
+.idea/
+Thumbs.db
